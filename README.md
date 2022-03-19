@@ -1,1 +1,2 @@
 # Information-Systems-Analysis-and-Design-AUEB
+These are all the excercises I did alongside my friend and colleague Panagiotis for the Information Systems Analysis and Design Course. Although I found the excercises somewhat enjoyable we did not have the best time completing them mainly becasue the work load and the limited time we had.Nevertheless we had the best excercise total grade in our class.
